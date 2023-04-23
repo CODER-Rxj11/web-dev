@@ -1,0 +1,29 @@
+JavaScript libraries contain various functions, methods, or objects to perform practical tasks on a webpage or JS-based application.
+1. Anime.js -> People love animations, and you can leverage them to make your web page interactive and more engaging. Adding micro-interactions and animations is easy by using JavaScript libraries.
+
+2. Typeface.js -> Users can incorporate any font they wish to make their web page more compelling based on the content type.
+
+3. jQuery -> jQuery is a classic JavaScript library that’s fast, light-weight, and feature-rich. It was built in 2006 by John Resig at BarCamp NYC. jQuery is free and open-source software with a license from MIT.
+
+It makes things simpler for HTML document manipulation and traversal, animation, event handling, and Ajax.
+
+4. React.js -> It supports JavaScript XML (JSX) that combines both JS and HTML. It helps in component rendering with nested elements, attributes, JS expressions, and conditional statements.
+
+5. Chart.js -> Chart.js is a flexible and simple library for designers and developers who can add beautiful charts and graphs to their projects in no time. It is open-source and has an MIT license.
+
+6. Cleave.js -> Cleave.js offers an interesting solution if you want to format your text content. Its creation aims to provide an easier way to increase the input field’s readability by formatting the typed data.
+
+7. Choreographer.js -> Use Chreographer.js to animate complex CSS effectively. It can even add more custom functions that you can use for non-CSS animations.
+
+8. Granim.js -> Granim.js is a JS library that helps you create fluid and interactive gradient animations. This way, you can make your site stand out with colorful backgrounds.
+
+9. Leaflet -> Leaflet is one of the best JavaScript libraries that you can use to include interactive maps into your site. It is open-source and mobile-friendly, weighing around 39kb. The MapPress Maps for WordPress plugin uses Leaflet to power its interactive maps.
+
+
+10.Moment.js -> Moment.js helps you manage time and date effectively when working with different time zones, API calls, local languages, etc.
+
+11. Masonry -> Masonry is an awesome JS grid layout library. This library helps you place your grid elements in suitable positions based on how much vertical space is available. It’s even used by some of the popular photo gallery WordPress plugins.
+
+12. Three.js -> Three.js can make your 3-D designing delightful. It uses WebGL for rendering scenes on modern browsers. Use other CSS3, CSS2, and SVH renderers if you use IE 10 and below.
+
+13. Screenfull.js -> Use Screenfull.js to add a full-screen element to your project. Due to its impressive cross-browser efficiency, you won’t be in trouble while using this JavaScript library.

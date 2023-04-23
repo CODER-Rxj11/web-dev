@@ -1,0 +1,40 @@
+JavaScript frameworks are application frameworks that allow developers to manipulate code to meet their unique requirements.
+
+What Are JavaScript Frameworks Used For?
+To build websites
+Front-end app development
+Back-end app development
+Hybrid app development
+Ecommerce applications
+Build modular scripts, for example, Node.js
+Update DOM manually
+Automate repetitive tasks using templating and 2-way binding
+Develop video games
+Create image carousels,
+Testing codes and debugging
+To bundle modules
+
+How JavaScript Libraries and Frameworks Work Together??
+The difference between JavaScript libraries and frameworks lies in its flow of controls. They are just opposite in the flow, or inverted.
+
+In JS libraries, the parent code calls the function that a library offers.
+
+In JS frameworks, the framework itself calls the code and uses it in a specific way. It defines the overall application design.
+
+Simply put, you can think of JavaScript libraries as a particular app function. In contrast, the framework acts like its skeleton, while an API acts as the connector to bring them together.
+
+Commonly, developers start the development process with a JS framework and then complete the app functions with JS libraries and an API’s help.
+
+1. AngularJS -> AngularJS by Google is an open-source JavaScript framework released in 2010. This is a front-end JS framework you can use to create web apps.
+
+2. Bootstrap -> Design fast and mobile responsive sites quickly using Bootstrap, one of the most popular open-source toolkits for front-end development.
+
+3. Ember.js -> The open-source JS framework Ember.js is battle-tested and productive to build web applications with rich UIs, capable of working across devices.
+
+4. Node.js -> Node.js is a server-side, open-source JavaScript framework built on Chrome’s JS V8 Engine, created in 2009. It is a runtime environment that executes JS codes outside a browser.
+
+5. Next.js -> The Open source platform of Next.js offers a React front-end JavaScript framework. Released in 2016, it allows you to enable functionalities like creating static sites and server-side rendering.
+
+6. ExpressJS -> Express.js is a back-end JS framework for developing web applications. It was released in 2010 under MIT incense as free, open-source software.
+
+It is a fast and minimalist Node.js web framework that comes with an array of useful features.
